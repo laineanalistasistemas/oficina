@@ -49,8 +49,7 @@ O script profissional está em `schema_oficina_profissional.sql`.
 	```
 
 ## Autor
-- Laine Analista de Sistemas
+- Regilaine Souza da Silva
 
 ## Contato
-- Email: seuemail@dominio.com
-- LinkedIn: [Seu Perfil](https://www.linkedin.com)
+- Email: laineanalistasistemas@gmail.com
